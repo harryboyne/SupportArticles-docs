@@ -46,4 +46,4 @@ To work around this issue, use the steps below to manually rename the profile pa
     > [!WARNING]
     > If you use Registry Editor incorrectly, you may cause serious problems that may require you to reinstall your operating system. Microsoft cannot guarantee that you can solve problems that result from using Registry Editor incorrectly. Use Registry Editor at your own risk.
 
-4. Log out and log in again by using the user whose name is changed, and the user should use the pervious profile with new path name.
+4. Log out and log in again by using the user whose name is changed, and the user should use the previous profile with new path name.
